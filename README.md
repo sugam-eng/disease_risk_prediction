@@ -20,3 +20,7 @@ This repository contains two machine learning classification projects focused on
 - Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
 - Code and explanations documented in Jupyter Notebooks
 
+## 📊 Output
+- Confusion matrix visualizations
+
+- Performance reports for both models
